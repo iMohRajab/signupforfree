@@ -1,0 +1,175 @@
+form
+{
+    margin:10px auto;
+    width:40%;
+    overflow:hidden;
+    background-color:#24333D
+}
+
+form header{
+  font-size: 0
+}
+form header .signup{
+  color: white;
+  background-color: #1BB188;
+  width:245px;
+  height: 50px;
+  font-size: 20px;
+
+
+}
+
+form header .login{
+  color: #9FB3B0;
+  background-color: #425359;
+  width:245px;
+  height: 50px;
+  font-size: 20px;
+
+
+}
+
+form header .sent{
+  margin: 20px 0 20px 0;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+
+
+form input[type="text"]{
+  background: transparent;
+  float: left;
+  width: 40%;
+  margin-bottom: 20px;
+  margin:0 5%
+
+}
+
+form input[type="email"]{
+  background: transparent;
+  width: 90%;
+  margin-bottom: 20px;
+  margin: 0 0 0 5%
+
+}
+
+form input[type="password"]{
+  background: transparent;
+  width: 90%;
+  margin-bottom: 20px;
+  margin: 0 0 0 5%
+
+}
+
+form button{
+  background: transparent;
+  width: 90%;
+  margin-bottom: 20px;
+  margin-left: 5%
+}
+
+
+
+
+/*
+form header
+{
+    padding:25px;
+    background-image:url('../image/m3lRbCCA_o.jpg');
+    background-size:cover;
+    color:#FFF;
+}
+form header h2
+{
+    text-transform:uppercase;
+    margin:0;
+    font-size:40px;
+    font-family:'Segoe UI';
+}
+form header hr
+{
+    width:75%;
+    margin-left:0;
+    opacity:0.5;
+    border:0.8px solid #fff;
+    margin:20px 0
+}
+form header span
+{
+    font-size:20px;
+}
+form > div
+{
+    padding:20px;
+    overflow:hidden
+}
+form .field
+{
+    float:left;
+    width:40%;
+    margin:0 5%
+}
+
+
+form label
+{
+    display:block;
+    padding:8px 0;
+    color:rgb(15, 79, 255);
+}
+form label span
+{
+    color:#F00;
+}
+form input
+{
+    width:100%;
+    display:block;
+    height:30px
+}
+form div hr
+{
+    display:block;
+    margin:20px 15px 5px 15px;
+    border:1px solid #EEE
+}
+form textarea
+{
+    width:90%;
+    margin:0 5%;
+    height:80px
+}
+button
+{
+    width:100px;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-top:20px;
+    background-color:rgb(89, 117, 192);
+    color:#fff;
+    border:none;
+    text-transform:uppercase;
+    border-bottom:3px solid rgb(72, 81, 112);
+    cursor:pointer
+}
+form div span
+{
+    color:rgb(15, 79, 255)
+}
+form .field1
+{
+    margin:0 5%
+}
+body
+{
+    font-family:Tahoma;
+}
+*/
+*
+{
+    box-sizing:border-box
+}
